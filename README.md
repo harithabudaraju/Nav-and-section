@@ -6,5 +6,6 @@
 
 ## layout output screenshot
 
-![layout](./src/image/layout.png)
+![layout](https://user-images.githubusercontent.com/112842592/205047147-5d9b641a-6222-4e93-8af4-466f89994e2f.png)
+
 
